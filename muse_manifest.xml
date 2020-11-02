@@ -1,21 +1,20 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tim-notepad.cf" resolutions="1x" timestamp="1604308576097">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tim-notepad.cf" resolutions="1x" timestamp="1604311548092">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="4087684644" ref="index"/>
-    <file name="nomq_index.css" crc="526657006" ref="index"/>
-    <file name="_____.css" crc="4088294488" ref="архив"/>
+    <file name="index.css" crc="4239520681" ref="index"/>
+    <file name="nomq_index.css" crc="4285329039" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="timnotepad-2021-archive.zip" crc="3924698073" seo="true" mt="1604247154000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:архив"/>
-    <file name="museutils.js" crc="4216313831" ref="index:архив"/>
-    <file name="whatinput.js" crc="86476730" ref="index:архив"/>
-    <file name="museconfig.js" crc="474374037" ref="index:архив"/>
-    <file name="jquery.watch.js" crc="460461809" ref="index:архив"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4216313831" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="474374037" ref="index"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index"/>
     <file name="jquery.museresponsive.js" crc="4055310269" ref="index"/>
-    <file name="require.js" crc="3951022091" ref="index:архив"/>
+    <file name="require.js" crc="3951022091" ref="index"/>
   </folder>
   <folder name="images">
     <file name="favicon.ico" crc="3917196124" ref="index"/>
@@ -26,10 +25,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u124-5.png" crc="342698363" ref="index"/>
-    <file name="button1-crop-u145.png" crc="300141998" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u152-4.png" crc="3877906092" ref="index"/>
     <file name="button1-crop-u132.png" crc="25071687" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -56,10 +51,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u124-52.png" crc="449982340" ref="index"/>
-    <file name="button1-crop-u1452.png" crc="3765330723" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u152-42.png" crc="4270955946" ref="index"/>
     <file name="button1-crop-u1322.png" crc="4006211530" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -82,10 +73,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u124-53.png" crc="4283529367" ref="index"/>
-    <file name="button1-crop-u1453.png" crc="3845423764" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u152-43.png" crc="3911137857" ref="index"/>
     <file name="button1-crop-u1323.png" crc="228150678" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -111,10 +98,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u124-54.png" crc="4021285076" ref="index"/>
-    <file name="button1-crop-u1454.png" crc="4287660478" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u152-44.png" crc="471218765" ref="index"/>
     <file name="button1-crop-u1324.png" crc="3987356268" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -141,6 +124,5 @@
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="55910938" seo="true" mt="1604308455473" redirect="true"/>
-  <file name="архив.html" crc="4033319400" seo="true" mt="1604297602034" redirect="true"/>
+  <file name="index.html" crc="311287081" seo="true" mt="1604311374226" redirect="true"/>
 </manifest>
