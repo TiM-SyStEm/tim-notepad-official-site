@@ -1,0 +1,146 @@
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tim-notepad.cf" resolutions="1x" timestamp="1604308576097">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="4087684644" ref="index"/>
+    <file name="nomq_index.css" crc="526657006" ref="index"/>
+    <file name="_____.css" crc="4088294488" ref="архив"/>
+  </folder>
+  <folder name="assets">
+    <file name="timnotepad-2021-archive.zip" crc="3924698073" seo="true" mt="1604247154000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:архив"/>
+    <file name="museutils.js" crc="4216313831" ref="index:архив"/>
+    <file name="whatinput.js" crc="86476730" ref="index:архив"/>
+    <file name="museconfig.js" crc="474374037" ref="index:архив"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:архив"/>
+    <file name="jquery.museresponsive.js" crc="4055310269" ref="index"/>
+    <file name="require.js" crc="3951022091" ref="index:архив"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="3917196124" ref="index"/>
+    <file name="logo.png" crc="362294124" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u124-5.png" crc="342698363" ref="index"/>
+    <file name="button1-crop-u145.png" crc="300141998" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u152-4.png" crc="3877906092" ref="index"/>
+    <file name="button1-crop-u132.png" crc="25071687" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u165-4.png" crc="419868173" ref="index"/>
+    <file name="2020-11-02_12-27-04-crop-u171.png" crc="5470388" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u251-4.png" crc="4079869118" ref="index"/>
+    <file name="u208-4.png" crc="454413433" ref="index"/>
+    <file name="2020-11-02_12-23-52-crop-u155.png" crc="450694113" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2020-11-02_12-32-21-crop-u188.png" crc="290915206" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2020-11-02_12-39-45-crop-u198.png" crc="93600975" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2020-11-02_12-54-29-crop-u239.png" crc="4048003805" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2020-11-02_12-58-42.png" crc="4006410872" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u124-52.png" crc="449982340" ref="index"/>
+    <file name="button1-crop-u1452.png" crc="3765330723" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u152-42.png" crc="4270955946" ref="index"/>
+    <file name="button1-crop-u1322.png" crc="4006211530" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u165-42.png" crc="73732888" ref="index"/>
+    <file name="2020-11-02_12-27-04-crop-u1712.png" crc="125008996" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u251-42.png" crc="4249322361" ref="index"/>
+    <file name="u208-42.png" crc="226393357" ref="index"/>
+    <file name="2020-11-02_12-23-52432x323.png" crc="301271045" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2020-11-02_12-32-21-crop-u1882.png" crc="4143551550" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2020-11-02_12-39-45-crop-u1982.png" crc="93600975" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2020-11-02_12-54-29-crop-u2392.png" crc="138160194" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u124-53.png" crc="4283529367" ref="index"/>
+    <file name="button1-crop-u1453.png" crc="3845423764" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u152-43.png" crc="3911137857" ref="index"/>
+    <file name="button1-crop-u1323.png" crc="228150678" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u165-43.png" crc="419868173" ref="index"/>
+    <file name="2020-11-02_12-27-04315x235.png" crc="30344325" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u251-43.png" crc="3929243849" ref="index"/>
+    <file name="u208-43.png" crc="213847201" ref="index"/>
+    <file name="2020-11-02_12-23-52315x235.png" crc="233767581" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2020-11-02_12-32-21-crop-u1883.png" crc="462490771" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2020-11-02_12-39-45-crop-u1983.png" crc="4025685521" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2020-11-02_12-54-29-crop-u2393.png" crc="4165794557" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2020-11-02_12-58-42-crop-u257.png" crc="201819234" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u124-54.png" crc="4021285076" ref="index"/>
+    <file name="button1-crop-u1454.png" crc="4287660478" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u152-44.png" crc="471218765" ref="index"/>
+    <file name="button1-crop-u1324.png" crc="3987356268" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u165-44.png" crc="233513858" ref="index"/>
+    <file name="2020-11-02_12-27-04-crop-u1713.png" crc="3790517822" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u251-44.png" crc="126544681" ref="index"/>
+    <file name="u208-44.png" crc="23040211" ref="index"/>
+    <file name="2020-11-02_12-23-52288x215.png" crc="3972286454" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2020-11-02_12-32-21-crop-u1884.png" crc="4164442872" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2020-11-02_12-39-45-crop-u1984.png" crc="4246181056" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2020-11-02_12-54-29-crop-u2394.png" crc="4237864028" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2020-11-02_12-58-42-crop-u2572.png" crc="4120944002" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+  </folder>
+  <file name="index.html" crc="55910938" seo="true" mt="1604308455473" redirect="true"/>
+  <file name="архив.html" crc="4033319400" seo="true" mt="1604297602034" redirect="true"/>
+</manifest>
