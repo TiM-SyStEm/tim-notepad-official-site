@@ -1,16 +1,17 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tim-notepad.cf" resolutions="1x" timestamp="1604326247850">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tim-notepad.cf" resolutions="1x" timestamp="1606975328302">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="189981007" ref="index"/>
+    <file name="index.css" crc="4141156107" ref="index"/>
     <file name="nomq_index.css" crc="120960961" ref="index"/>
     <file name="timnotepad---___________-____________.css" crc="4204636107" ref="timnotepad---руководство-пользователя"/>
     <file name="nomq_timnotepad---___________-____________.css" crc="45116778" ref="timnotepad---руководство-пользователя"/>
-    <file name="timnotepad---_____-______.css" crc="4148962644" ref="timnotepad---архив-версий"/>
-    <file name="nomq_timnotepad---_____-______.css" crc="4172182721" ref="timnotepad---архив-версий"/>
+    <file name="timnotepad---_____-______.css" crc="4199516239" ref="timnotepad---архив-версий"/>
+    <file name="nomq_timnotepad---_____-______.css" crc="3775663695" ref="timnotepad---архив-версий"/>
   </folder>
   <folder name="assets">
-    <file name="timnotepad-2021-archive.zip" crc="3924698073" seo="true" mt="1604247154000"/>
+    <file name="timnotepad-2021-archive.zip" crc="4082375239" seo="true" mt="1604336724000"/>
     <file name="logo.ico" crc="4114205338" seo="true" mt="1604240256000"/>
+    <file name="timnotepad-01121430.zip" crc="50853746" seo="true" mt="1606921136000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:timnotepad---архив-версий:timnotepad---руководство-пользователя"/>
@@ -22,7 +23,7 @@
     <file name="require.js" crc="3951022091" ref="index:timnotepad---архив-версий:timnotepad---руководство-пользователя"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="3917196124" ref="index"/>
+    <file name="favicon.ico" crc="3917196124" ref="index:timnotepad---архив-версий"/>
     <file name="logo.png" crc="362294124" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -34,7 +35,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u165-4.png" crc="419868173" ref="index"/>
-    <file name="2020-11-02_12-27-04-crop-u171.png" crc="5470388" seo="true" ref="index">
+    <file name="2020-11-02_12-27-04-crop-u171.png" crc="275816675" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u251-4.png" crc="4079869118" ref="index"/>
@@ -60,7 +61,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u165-42.png" crc="73732888" ref="index"/>
-    <file name="2020-11-02_12-27-04-crop-u1712.png" crc="125008996" seo="true" ref="index">
+    <file name="2020-11-02_12-27-04-crop-u1712.png" crc="158415779" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u251-42.png" crc="4249322361" ref="index"/>
@@ -107,7 +108,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u165-44.png" crc="233513858" ref="index"/>
-    <file name="2020-11-02_12-27-04-crop-u1713.png" crc="3790517822" seo="true" ref="index">
+    <file name="2020-11-02_12-27-04-crop-u1713.png" crc="350415866" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u251-44.png" crc="126544681" ref="index"/>
@@ -127,7 +128,7 @@
     <file name="2020-11-02_12-58-42-crop-u2572.png" crc="4120944002" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index:timnotepad---архив-версий:timnotepad---руководство-пользователя"/>
+    <file name="blank.gif" crc="4208392903" ref="index:timnotepad---руководство-пользователя"/>
     <file name="button1-crop-u667.png" crc="3848333221" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -153,7 +154,7 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="309175958" seo="true" mt="1604326235358" redirect="true"/>
-  <file name="timnotepad---архив-версий.html" crc="237760955" seo="true" mt="1604322053197" redirect="true"/>
+  <file name="index.html" crc="493960947" seo="true" mt="1606975224157" redirect="true"/>
+  <file name="timnotepad---архив-версий.html" crc="531949362" seo="true" mt="1606975308171" redirect="true"/>
   <file name="timnotepad---руководство-пользователя.html" crc="3893982098" seo="true" mt="1604324515066" redirect="true"/>
 </manifest>
