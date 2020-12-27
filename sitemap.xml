@@ -2,21 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" >
 	<url>
 		<loc>http://www.yourwebsite.com/</loc>
-		<lastmod>2020-12-16</lastmod>
+		<lastmod>2020-12-27</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 		<xhtml:link rel="alternate" href="https://tim-notepad.cf" hreflang="ru" />
 	</url>
 	<url>
 		<loc>http://www.yourwebsite.com/index.html</loc>
-		<lastmod>2020-12-16</lastmod>
+		<lastmod>2020-12-27</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 		<xhtml:link rel="alternate" href="https://tim-notepad.cf" hreflang="ru" />
 	</url>
 	<url>
 		<loc>http://www.yourwebsite.com/Archiv_versions.html</loc>
-		<lastmod>2020-12-16</lastmod>
+		<lastmod>2020-12-27</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 		<xhtml:link rel="alternate" href="https://tim-notepad.cf/Archiv_versions.html" hreflang="ru" />
